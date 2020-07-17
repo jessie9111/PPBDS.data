@@ -17,6 +17,7 @@ Depends: R (>= 2.10)
 Imports:
     learnr (>= 0.10.1)
 Remotes:
-    rundel/learnrhash,
-    rstudio-education/gradethis
+    rundel/learnrhash
+Suggests:
+    gradethis
 BugReports: https://github.com/davidkane9/PPBDS.data/issues
