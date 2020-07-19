@@ -1,13 +1,13 @@
 Package: PPBDS.data
 Title: Data for Preceptor's Primer for Bayesian Data Science
-Version: 0.1.0.9000
+Version: 0.2.0.9000
 Authors@R: 
     person(given = "David",
            family = "Kane",
            role = c("aut", "cre"),
            email = "dave.kane@gmail.com",
            comment = c(ORCID = "0000-0002-6660-3934"))
-Description: Data for David Kane's Gov 50: Data course at Harvard.
+Description: Data for Gov 50: Data, a course at Harvard University.
 License: MIT + file LICENSE
 Encoding: UTF-8
 LazyData: true
@@ -18,6 +18,4 @@ Imports:
     learnr (>= 0.10.1)
 Remotes:
     rundel/learnrhash
-Suggests:
-    gradethis
 BugReports: https://github.com/davidkane9/PPBDS.data/issues
