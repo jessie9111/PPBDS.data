@@ -1025,6 +1025,11 @@ p <- ggplot(diamonds) +
   geom_boxplot(mapping = aes(x = cut, y = price))
 ```
 
+```{r}
+p <- ggplot(diamonds) +
+  geom_boxplot(mapping = aes(x = cut, y = price))
+```
+
 ```{r out.width = "80%"}
 p + labs(title = "The title appears here")
 ```
