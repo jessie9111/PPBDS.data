@@ -3807,7 +3807,7 @@ Nice work. Let's also use `summarize()` to find the `min()` and `max()` of enrol
 
 ## Submit
 
-Congrats on finishing your first Gov 50 tutorial! You're on your way to being a master in data visualization and wrangling :)
+Congrats on finishing your first Gov 50 tutorial! You're on your way to being a master in data visualization and wrangling! :)
 
 ```{r context="setup"}
 submission_ui
